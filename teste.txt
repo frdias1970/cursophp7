@@ -1,1 +1,3 @@
+<<<<<<< HEAD
                                     colocando texto para verificar se a alteração vai aparecer remotamente.
+
